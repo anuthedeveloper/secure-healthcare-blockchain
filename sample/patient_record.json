@@ -1,0 +1,9 @@
+{
+  "patient_id": "PAT001",
+  "owner_id": "patient",
+  "record": {
+    "diagnosis": "Hypertension",
+    "medication": "Amlodipine",
+    "notes": "Blood pressure stable"
+  }
+}
