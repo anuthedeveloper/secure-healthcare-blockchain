@@ -1,5 +1,7 @@
 # Secure healthcare system blockchain
 
+> :warning: **This project was made for educational purposes only.** It is not intended to be used in production environments.
+
 ### Task 2 documentation (theory + explanation)
 
 This project implements a secure healthcare data management prototype using blockchain and cryptographic techniques.
